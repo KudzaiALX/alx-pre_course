@@ -1,2 +1,2 @@
-My edited first readme 
+My edited readme 
 Editing from GitHub interface
